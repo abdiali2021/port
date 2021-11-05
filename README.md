@@ -6,7 +6,7 @@
 * Clone the repo {git clone https://github.com/abdiali2021/port.git
 * Have ubuntu installed
 
-## Live link 
+## Live link https://abdiali2021.github.io/port/
 
 ## Known Bugs
 No known bugs
