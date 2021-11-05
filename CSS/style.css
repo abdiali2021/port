@@ -40,6 +40,8 @@ nav ul li a:hover{
 .image{
     image-rendering: optimizeQuality;
     float: left;
+    padding-top: 40px;
+    padding-right: 30px;
 }
 .hero{
     padding-bottom: 40%;
@@ -48,5 +50,6 @@ nav ul li a:hover{
 .Header{
     color: black
 }
+
 
 
