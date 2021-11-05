@@ -18,6 +18,17 @@ nav{
     font-size: 35px;
     letter-spacing: 1px;
     cursor: pointer;
-    
+}
+span{
+    color:tomato
+}
 
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+nav ul li a{
+    color: black;
 }
