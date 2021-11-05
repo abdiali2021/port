@@ -1,7 +1,7 @@
 .hero{
-    height: 100vh;
-    width: 100%;
-    background-color: rgb(248, 231, 210);
+    height: 40%;
+    width: 30%%;
+    background-color: beige;
     background-size: cover;
 }
 
@@ -36,4 +36,11 @@ nav ul li a{
 nav ul li a:hover{
     color: tomato;
     transition: .4s;
+}
+.image{
+    image-rendering: optimizeQuality;
+    float: left;
+}
+.hero{
+    padding-bottom: 40%;
 }
